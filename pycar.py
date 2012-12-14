@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import os
 import sys
 from PyQt4 import QtCore, QtGui
 from login import Ui_Form
@@ -9,7 +10,8 @@ class MyForm(QtGui.QMainWindow):
     QtGui.QWidget.__init__(self, parent)
     self.ui = Ui_Form()
     self.ui.setupUi(self)
-#    self.showFullScreen()
+    if os.path.exists('.fullscreen'):
+      self.showFullScreen()
     QtCore.QObject.connect(self.ui.txtCode, QtCore.SIGNAL("returnPressed()"), self.check_code)
 
   def read_codes(self):

@@ -1,6 +1,9 @@
 # The file that contains valid login codes (1 code per line)
 codes
 
+# File that I create with chef in live to make the app fullscreen
+.fullscreen
+
 *.py[cod]
 
 # C extensions
