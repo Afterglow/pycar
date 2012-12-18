@@ -478,7 +478,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <property name="geometry">
     <rect>
      <x>20</x>
-     <y>10</y>
+     <y>20</y>
      <width>601</width>
      <height>31</height>
     </rect>
@@ -498,9 +498,9 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
   <widget class="QGroupBox" name="gbxStatus">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>60</y>
-     <width>601</width>
+     <x>30</x>
+     <y>70</y>
+     <width>571</width>
      <height>161</height>
     </rect>
    </property>
@@ -517,7 +517,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
      <rect>
       <x>0</x>
       <y>50</y>
-      <width>141</width>
+      <width>151</width>
       <height>21</height>
      </rect>
     </property>
@@ -538,7 +538,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
      <rect>
       <x>0</x>
       <y>80</y>
-      <width>141</width>
+      <width>151</width>
       <height>20</height>
      </rect>
     </property>
@@ -559,7 +559,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
      <rect>
       <x>0</x>
       <y>110</y>
-      <width>141</width>
+      <width>151</width>
       <height>20</height>
      </rect>
     </property>
@@ -578,9 +578,9 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <widget class="QLabel" name="lblWifiStatus">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>170</x>
       <y>50</y>
-      <width>411</width>
+      <width>391</width>
       <height>21</height>
      </rect>
     </property>
@@ -1014,9 +1014,9 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <widget class="QLabel" name="lblModemStatus">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>170</x>
       <y>80</y>
-      <width>141</width>
+      <width>391</width>
       <height>20</height>
      </rect>
     </property>
@@ -1450,9 +1450,9 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <widget class="QLabel" name="lblGpsStatus">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>170</x>
       <y>110</y>
-      <width>141</width>
+      <width>391</width>
       <height>20</height>
      </rect>
     </property>
@@ -1888,7 +1888,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
      <rect>
       <x>0</x>
       <y>140</y>
-      <width>141</width>
+      <width>151</width>
       <height>20</height>
      </rect>
     </property>
@@ -1907,9 +1907,9 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <widget class="QLabel" name="lblNetStatus">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>170</x>
       <y>140</y>
-      <width>141</width>
+      <width>391</width>
       <height>20</height>
      </rect>
     </property>
@@ -2344,10 +2344,10 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
   <widget class="QGroupBox" name="gbxSoftware">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>240</y>
-     <width>611</width>
-     <height>111</height>
+     <x>30</x>
+     <y>250</y>
+     <width>571</width>
+     <height>101</height>
     </rect>
    </property>
    <property name="font">
@@ -2363,7 +2363,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
      <rect>
       <x>10</x>
       <y>40</y>
-      <width>141</width>
+      <width>151</width>
       <height>21</height>
      </rect>
     </property>
@@ -2384,7 +2384,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
      <rect>
       <x>10</x>
       <y>70</y>
-      <width>141</width>
+      <width>151</width>
       <height>21</height>
      </rect>
     </property>
@@ -2403,9 +2403,9 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <widget class="QLabel" name="lblChefRunStatus">
     <property name="geometry">
      <rect>
-      <x>160</x>
+      <x>180</x>
       <y>40</y>
-      <width>411</width>
+      <width>391</width>
       <height>21</height>
      </rect>
     </property>
@@ -2839,9 +2839,9 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <widget class="QLabel" name="lblChefStatus">
     <property name="geometry">
      <rect>
-      <x>160</x>
+      <x>180</x>
       <y>70</y>
-      <width>411</width>
+      <width>391</width>
       <height>21</height>
      </rect>
     </property>
@@ -3280,7 +3280,7 @@ QCheckBox::indicator:disabled, QRadioButton::indicator:disabled
    <property name="geometry">
     <rect>
      <x>180</x>
-     <y>380</y>
+     <y>370</y>
      <width>291</width>
      <height>51</height>
     </rect>
